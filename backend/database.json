@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mrkxhe5lqmciz",
+    "sourceText": "pandi",
+    "targetText": "पंडी",
+    "fromLang": "en",
+    "toLang": "hi",
+    "timestamp": "2026-07-14T17:31:35.529Z"
+  },
+  {
+    "id": "mrkxdtbjvvn4c",
+    "sourceText": "Document: Sabbithi karthikey-1.docx",
+    "targetText": "Translated Document (te)",
+    "fromLang": "auto",
+    "toLang": "te",
+    "timestamp": "2026-07-14T17:28:48.559Z"
+  },
+  {
+    "id": "mrkxda7yy2140",
+    "sourceText": "potti dana",
+    "targetText": "पोट्टी दाना",
+    "fromLang": "en",
+    "toLang": "hi",
+    "timestamp": "2026-07-14T17:28:23.806Z"
+  },
+  {
+    "id": "mrkxd2p141ym4",
+    "sourceText": "server start avale",
+    "targetText": "सर्वर प्रारंभ अवले",
+    "fromLang": "en",
+    "toLang": "hi",
+    "timestamp": "2026-07-14T17:28:14.053Z"
+  },
+  {
+    "id": "mrkxcmkom7geq",
+    "sourceText": "hi pragna sri",
+    "targetText": "नमस्ते प्रज्ञा श्री",
+    "fromLang": "en",
+    "toLang": "hi",
+    "timestamp": "2026-07-14T17:27:53.160Z"
+  },
+  {
+    "id": "mrkrhp6mss93r",
+    "sourceText": "hi",
+    "targetText": "नमस्ते",
+    "fromLang": "en",
+    "toLang": "hi",
+    "timestamp": "2026-07-14T14:43:52.126Z"
+  },
+  {
+    "id": "mrkpsduibtod9",
+    "sourceText": "how are you\n",
+    "targetText": "आप कैसे हैं",
+    "fromLang": "en",
+    "toLang": "hi",
+    "timestamp": "2026-07-14T13:56:11.418Z"
+  },
+  {
+    "id": "mrkps6ptn4egc",
+    "sourceText": "dssdvsd",
+    "targetText": "डीएसएसडीवीएसडी",
+    "fromLang": "en",
+    "toLang": "hi",
+    "timestamp": "2026-07-14T13:56:02.177Z"
+  },
+  {
+    "id": "mrkplqy1vmzkm",
+    "sourceText": "how are you\n",
+    "targetText": "ఎలా ఉన్నావు",
+    "fromLang": "en",
+    "toLang": "te",
+    "timestamp": "2026-07-14T13:51:01.801Z"
+  },
+  {
+    "id": "mrkplqi58fwpc",
+    "sourceText": "how are you",
+    "targetText": "ఎలా ఉన్నావు",
+    "fromLang": "en",
+    "toLang": "te",
+    "timestamp": "2026-07-14T13:51:01.229Z"
+  },
+  {
+    "id": "mrkzi9vc2apzg",
+    "sourceText": "hi",
+    "targetText": "नमस्ते",
+    "fromLang": "en",
+    "toLang": "hi",
+    "timestamp": "2026-07-14T18:28:15.864Z"
+  }
+]
