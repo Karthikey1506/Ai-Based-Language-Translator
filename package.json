@@ -4,6 +4,9 @@
   "description": "Root package for AI-Based Language Translator",
   "scripts": {
     "install-all": "npm install && npm install --prefix backend && npm install --prefix frontend",
+    "postinstall": "npm install --prefix backend && npm install --prefix frontend",
+    "build": "npm --prefix frontend run build",
+    "start": "node backend/server.js",
     "backend": "npm start --prefix backend",
     "frontend": "npm run dev --prefix frontend",
     "dev": "concurrently \"npm run backend\" \"npm run frontend\""

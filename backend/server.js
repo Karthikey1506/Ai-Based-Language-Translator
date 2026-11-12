@@ -269,6 +269,18 @@ app.post('/api/chat', async (req, res) => {
   }
 });
 
+// Serve static frontend build if it exists (production deployment)
+const frontendDist = path.join(__dirname, '../frontend/dist');
+if (fs.existsSync(frontendDist)) {
+  app.use(express.static(frontendDist));
+  app.get('*', (req, res, next) => {
+    if (req.path.startsWith('/api')) {
+      return next();
+    }
+    res.sendFile(path.join(frontendDist, 'index.html'));
+  });
+}
+
 // Start the server
 app.listen(PORT, () => {
   console.log(`Backend server is running on http://localhost:${PORT}`);
